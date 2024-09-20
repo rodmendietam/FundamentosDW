@@ -1,0 +1,32 @@
+
+*{
+margin: 0; /*Espacio exterior*/
+padding:0; /*Espacio interior*/
+box-sizing: border-box;
+
+}
+
+h1{ 
+    border: 1px black solid;
+   width: 180px; /*Ancho*/
+   height: 150px; /*Alto*/
+}
+
+body{
+    background-color: yellowgreen;
+    font-family: Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+.contenedor{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    background-color: red;
+}
+.estilo{
+
+    background-color: blanchedalmond;
+}
